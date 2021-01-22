@@ -5,7 +5,7 @@ public class Interface {
 		System.out.println("Wie ist ihr Name??");
 		String name = new java.util.Scanner(System.in).nextLine();	//Scannerabfrage des Namens durch Userinput
 		System.out.println("Darf ich auch Ihr Alter erfahren??");
-		int age = new java.util.Scanner(System.in).nextInt();		//Scannerabrafe des Alters durch Userinput
+		int age = new java.util.Scanner(System.in).nextInt();		//Scannerabrfage des Alters durch Userinput
 		System.out.println("Ich benoetige noch Ihre Koerpergroeße in m");
 		double height = new java.util.Scanner(System.in).nextDouble();	//Scannerabfrage der Körpergröße durch Userinput
 		
