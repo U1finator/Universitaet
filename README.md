@@ -6,3 +6,4 @@ Codes sind:
   - HelloWorld MK2
   - Interfaceabfrage
   - Schaltjahr
+  - Zinsrechner
