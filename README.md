@@ -5,3 +5,4 @@ jedes Project hat seinen eigenen Branch
 Codes sind: 
   - HelloWorld MK2
   - Interfaceabfrage
+  - Schaltjahr
