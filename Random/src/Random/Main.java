@@ -15,9 +15,14 @@ public class Main {
 		{
 			System.out.println("Sie haben richtig geraten");		//Ausgabe wenn die Zufallszahl der Benutzerzahl entspricht
 		}
-		else
+		else if(guess < number)
 		{
-			System.out.println("Das war leider nicht richtig");		//Ausgabe wenn die Zufallszahl nicht mit der Benutzerzahl übereinstimmt
+			System.out.println("Ihre Zhal war leider zu klein.");		//Ausgabe wenn die Zufallszahl größer als die Benutzerzahl ist
+			System.out.println("Die richtige Zahl ist: " + number);
+		}
+		else if(guess > number)
+		{
+			System.out.println("Ihre Zhal war leider zu groß.");		//Ausgabe wenn die Zufallszahl kleiner als die Benutzerzahl ist
 			System.out.println("Die richtige Zahl ist: " + number);
 		}
 		System.out.println("Dieses Programm endet hier. Für einen erneuten Versuch starten sie dieses Programm neu");
