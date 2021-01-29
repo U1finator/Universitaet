@@ -7,3 +7,4 @@ Codes sind:
   - Interfaceabfrage
   - Schaltjahr
   - Zinsrechner
+  - Random Ratespiel
