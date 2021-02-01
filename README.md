@@ -10,3 +10,4 @@ Codes sind:
   - Random Ratespiel
   - Switch
   - Zins
+  - GuessGame
