@@ -8,3 +8,4 @@ Codes sind:
   - Schaltjahr
   - Zinsrechner
   - Random Ratespiel
+  - Switch
