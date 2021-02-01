@@ -9,3 +9,4 @@ Codes sind:
   - Zinsrechner
   - Random Ratespiel
   - Switch
+  - Zins
