@@ -13,9 +13,9 @@ public class Sum {
 	
 	public int sum_recur(int number)	//die rekursive Methode zur Summenberechnung
 	{
-		if(number == 0)		//wenn number 0 ist, wird number zurückgegeben
+		if(number == 1)		//wenn number 1 ist, wird 1 zurückgegeben
 		{
-			return number;
+			return 1;
 		}
 		else	//sonst wird number + Ergebnis von der rekursiven Methode mit number-1, gerechnet
 		{
