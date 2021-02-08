@@ -40,5 +40,6 @@ public class Main
 				System.out.println("Ihre Aktuelle Position: " + player.getLocation());
 			}
 		}
+		scan.close();
 	}
 }
