@@ -20,8 +20,9 @@ public class Main
 		Scanner scan = new Scanner(System.in);
 		int xplus = 0;
 		int yplus = 0;
+		int trial = 0;
 		
-		while(player.equals(door) != true)	//solange der Player nicht auf der Tür steht
+		while(player.equals(door) != true && trial<= 5)	//solange der Player nicht auf der Tür steht
 		{
 			System.out.println("Bitte geben Sie an wie viele Schritte sie in x Richtung gehen möchten");
 			xplus = scan.nextInt();
@@ -39,6 +40,7 @@ public class Main
 				System.out.println("Die Tür ist noch " + player.distance(door) + "m enternt");
 				System.out.println("Ihre Aktuelle Position: " + player.getLocation());
 			}
+			trial++;
 		}
 		scan.close();
 	}
