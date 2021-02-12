@@ -15,3 +15,4 @@ Codes sind (in der Rehenfolge in der Sie hinzugefügt wurden):
   - Uebung_3_1 (Nr1 vom Arbeitsblatt 3)
   - SumUp
   - PlayersAndDoors
+  - Arrays
