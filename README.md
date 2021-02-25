@@ -16,3 +16,4 @@ Codes sind (in der Rehenfolge in der Sie hinzugefügt wurden):
   - SumUp
   - PlayersAndDoors
   - Arrays
+  - 4Gewinnt
